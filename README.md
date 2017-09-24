@@ -1,2 +1,2 @@
 # hello-world
-Testing, testing
+Going thru GitHub's hello world tutorial.
